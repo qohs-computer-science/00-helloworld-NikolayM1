@@ -1,8 +1,8 @@
 /*
- * TODO: Nikolay Merenko
- * TODO: September 9th, 2025
- * TODO: Period 6
- * TODO: A program that prompts the user to enter their first name, which then promptly greets the person whose name was entered.
+ * Nikolay Merenko
+ * September 9th, 2025
+ * Period 6
+ * A program that greets the user by their inputted first name.
  */
 
 import java.util.Scanner;
